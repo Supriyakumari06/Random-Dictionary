@@ -1,0 +1,14 @@
+{
+    "name": "Vocab_builder",
+    "version": "0.0.1",
+    "author": "Supriya Kumari",
+    "manifest_version": 2,
+    "browser_action": {
+        "default_popup": "index.html",
+        "default_icon": "logo.png"
+    },
+    "icons": {
+        "128": "logo.png"
+    },
+    "permission":["activeTab"]
+}

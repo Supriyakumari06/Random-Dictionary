@@ -1,0 +1,25 @@
+body{
+    width:240px;
+    height:180px;
+    background-image: url(back.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+  background-size: cover;
+  padding: 10px;
+}
+#h1{
+    text-decoration: underline;
+    font-weight: 600;
+    font-size: medium;
+    text-align: center;
+    font-family: 'Times New Roman', serif;
+}
+#dfn1{
+    text-decoration: underline;
+    font-size: medium;
+}
+#div{
+    background-color:aliceblue;
+    opacity: 0.9;
+    border-radius: 10px;
+}
